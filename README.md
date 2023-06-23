@@ -71,8 +71,5 @@ Ultimately, the successful application of the Random Forest classifier in predic
 
 Special thanks to Ankit Verma for posting this dataset to kaggle. To find out more, please visit: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
 
-## License
-This Notebook has been released under the Apache 2.0 open source license.
-
 
 
