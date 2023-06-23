@@ -67,5 +67,9 @@ In the future, further enhancements could be explored, such as feature engineeri
 
 Ultimately, the successful application of the Random Forest classifier in predicting customer churn underscores the value of data-driven approaches in understanding and addressing customer behavior. By harnessing the power of machine learning and predictive analytics, businesses can proactively tackle customer churn and drive sustainable growth in today's dynamic marketplace.
 
+## Citation
+
+Special thanks to Ankit Verma for posting this dataset to kaggle. To find out more, please visit: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
+
 
 
